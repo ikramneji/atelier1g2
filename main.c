@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main ()
-{int a=1,b=2;
-printf("%d",a+b);
-printf("hello esprit") ;
-printf("hello djo");
+{
+int a,b;
+a=10;
+b=3;
+printf("\n a=%d b=%d",a,b);
 }
