@@ -1,0 +1,4 @@
+fd ff Fumee ffd 2 33 restaurant/cuisine 0 1 Janvier 2021
+cc ddd Dechet okj 12 74 foyer/blocB 3 9 juillet 2021
+fff frgfr Fumee 13 0 15 foyer/blocC 3 1 juillet 2021
+klk jkk Fumee 12 4 44 restaurant/hall 0 1 Janvier 2021

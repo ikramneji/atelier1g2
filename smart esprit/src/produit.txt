@@ -1,0 +1,5 @@
+1 Dorades Poissons 0 normal 2021-12-4 5
+2 Dindes Poulets 1 froid 2021-12-4 10
+10 sabr Eaux 4 froid 2021-12-11 5
+fgdgdgg ddgdg Poissons 1 froid 2021-12-14 1
+55 tomzte Poulets 2 froid 2021-12-15 11
